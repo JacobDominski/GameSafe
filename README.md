@@ -1,4 +1,3 @@
 # GameSafe
-The registration page for GameSafe
+The Code for Roblox Game Server
 
-This is the registration page that uses React + Gatsby SSG + Material-UI Plugin
